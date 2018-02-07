@@ -1,0 +1,28 @@
+grading comments for h.zhang633
+If you have any questions please post on piazza using tag re(grading) and include your wustl key and grader.
+
+grader: Josh Katz
+
+Problem 1:
+(a) 4/5
+combiner and reducer need to use the same key and value data types
+(b) 5/5
+(c) 15/15
+OK Since only asked for residual
+(d) 12/15
+Why does mapper take longer with combiner?
+
+36/40
+
+Problem 2
+(a) 15/15
+(b) 15/15
+(c) 15/20
+Incorrect sentiments (405 vs 444)
+(d) 10/10
+
+55/60 
+
+hw_review Bonus: +5
+Total: 91 + 5 = 96/100
+
